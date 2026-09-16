@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="dh6FgN5z6LdD8C1Qy1o2">
+    <mxGraphModel dx="813" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Schüler / Schülerinnen" vertex="1">
+          <mxGeometry height="120" width="200" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-8" parent="Hn_2_Oq9Gd9Gq7yDzx_w-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Name: String" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-9" parent="Hn_2_Oq9Gd9Gq7yDzx_w-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Geburtsdatum: String / Vec&amp;lt;(Int)&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-10" parent="Hn_2_Oq9Gd9Gq7yDzx_w-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Klasse: String / (Int, char)" vertex="1">
+          <mxGeometry height="30" width="200" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-11" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lehrkräfte" vertex="1">
+          <mxGeometry height="90" width="200" x="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-12" parent="Hn_2_Oq9Gd9Gq7yDzx_w-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Name: String" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-13" parent="Hn_2_Oq9Gd9Gq7yDzx_w-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Kürzel: String" vertex="1">
+          <mxGeometry height="30" width="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Schulklasse" vertex="1">
+          <mxGeometry height="60" width="200" x="450" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-16" parent="Hn_2_Oq9Gd9Gq7yDzx_w-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Lehrkräfte: Vec&amp;lt;(Lehrkräfte)&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-18" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Räume" vertex="1">
+          <mxGeometry height="90" width="200" x="450" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-19" parent="Hn_2_Oq9Gd9Gq7yDzx_w-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Nummer: Int&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-20" parent="Hn_2_Oq9Gd9Gq7yDzx_w-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Sitzplätze: Int" vertex="1">
+          <mxGeometry height="30" width="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Schulklasse" vertex="1">
+          <mxGeometry height="30" width="100" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raum" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-24" edge="1" parent="1" source="Hn_2_Oq9Gd9Gq7yDzx_w-22" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Hn_2_Oq9Gd9Gq7yDzx_w-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="180" as="sourcePoint" />
+            <mxPoint x="360" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-25" connectable="0" parent="Hn_2_Oq9Gd9Gq7yDzx_w-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="&lt;div&gt;Klassenraum&lt;/div&gt;&lt;div&gt;=1&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3655" y="2" as="geometry">
+            <mxPoint x="-16" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Schüler" vertex="1">
+          <mxGeometry height="30" width="100" x="30" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eltern" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-30" edge="1" parent="1" source="Hn_2_Oq9Gd9Gq7yDzx_w-26" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" target="Hn_2_Oq9Gd9Gq7yDzx_w-27" value="mindestens 1">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1111" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="300" y="180" as="sourcePoint" />
+            <mxPoint x="350" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Eltern" vertex="1">
+          <mxGeometry height="60" width="200" x="450" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn_2_Oq9Gd9Gq7yDzx_w-32" parent="Hn_2_Oq9Gd9Gq7yDzx_w-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Name: String" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
