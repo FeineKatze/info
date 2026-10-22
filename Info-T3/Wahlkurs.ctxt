@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Oct 22 16:50:31 CEST 2026
+comment0.target=Wahlkurs
+comment1.params=name teilnehmerzahl lehrkraft fachgebiet
+comment1.target=Wahlkurs(java.lang.String, int, java.lang.String, java.lang.String)
+comment2.params=fachgebiet
+comment2.target=boolean fachgebieIstGleich(java.lang.String)
+numComments=3

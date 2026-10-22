@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-21-openjdk/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+21
+-classpath
+/home/christopher/Apps/bluej/lib/bluejcore.jar:/home/christopher/Apps/bluej/lib/junit-platform-launcher-1.5.2.jar:/home/christopher/Apps/bluej/lib/junit-platform-suite-api-1.5.2.jar:/home/christopher/Apps/bluej/lib/junit-jupiter-params-5.5.2.jar:/home/christopher/Apps/bluej/lib/junit-platform-commons-1.5.2.jar:/home/christopher/Apps/bluej/lib/junit-vintage-engine-5.5.2.jar:/home/christopher/Apps/bluej/lib/junit-platform-engine-1.5.2.jar:/home/christopher/Apps/bluej/lib/junit-jupiter-5.5.2.jar:/home/christopher/Apps/bluej/lib/junit-jupiter-engine-5.5.2.jar:/home/christopher/Apps/bluej/lib/junit-jupiter-api-5.5.2.jar:/home/christopher/Apps/bluej/lib/junit-4.12.jar:/home/christopher/Apps/bluej/lib/hamcrest-core-1.3.jar:/home/christopher/Apps/bluej/lib/opentest4j-1.2.0.jar:/home/christopher/Apps/bluej/lib/lang-stride.jar:/home/christopher/Apps/bluej/lib/kotlin-stdlib-2.1.20.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.base.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.controls.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.fxml.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.graphics.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.media.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.properties.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.swing.jar:/usr/lib/jvm/java-21-openjdk/lib/javafx.web.jar:/home/christopher/Documents/BlueJ/Info-T3
+-d
+/home/christopher/Documents/BlueJ/Info-T3/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/christopher/Documents/BlueJ/Info-T3/WahlkursListe.java
+<---- end of javadoc command ---->
+Loading source file /home/christopher/Documents/BlueJ/Info-T3/WahlkursListe.java...
+Constructing Javadoc information...
+Standard Doclet version 21.0.13+9
+Building tree for all the packages and classes...
+Generating /home/christopher/Documents/BlueJ/Info-T3/doc/WahlkursListe.html...
+Generating /home/christopher/Documents/BlueJ/Info-T3/doc/package-summary.html...
+Generating /home/christopher/Documents/BlueJ/Info-T3/doc/index.html...

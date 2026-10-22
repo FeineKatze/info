@@ -1,0 +1,16 @@
+#BlueJ class context
+#Thu Oct 22 17:55:07 CEST 2026
+comment0.target=WahlkursListe
+comment1.target=WahlkursListe()
+comment2.params=fachgebiet
+comment2.target=int anzahlKurseGeben(java.lang.String)
+comment3.params=minTeilnehmerzahl
+comment3.target=void zuKleineKurseLoeschen(int)
+comment4.params=k
+comment4.target=void add(Wahlkurs)
+comment5.params=l
+comment5.target=void hintenEinfuegen2(WahlkursListe)
+comment6.params=l
+comment6.target=void hintenEinfuegen(WahlkursListe)
+comment7.target=Listenelement anfangGeben()
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+#Thu Oct 22 17:55:07 CEST 2026
+comment0.target=Listenelement
+comment1.params=fachgebiet
+comment1.target=int anzahlKurseGeben(java.lang.String)
+comment2.params=minTeilnehmerzahl
+comment2.target=Listenelement zuKleineKurseLoeschen(int)
+comment3.params=k
+comment3.target=Listenelement add(Wahlkurs)
+comment4.params=l
+comment4.target=void setNach(Listenelement)
+comment5.target=Listenelement getNach()
+comment6.params=l
+comment6.target=Listenelement hintenEinfuegen(WahlkursListe)
+numComments=7
